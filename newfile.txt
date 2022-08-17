@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 12BC-7E6D
+
+ Directory of C:\mycode
+
+17-08-2022  16:40    <DIR>          .
+17-08-2022  16:33               428 helloworld.class
+17-08-2022  16:32               124 helloworld.java
+17-08-2022  16:40                 0 newfile.txt
+               3 File(s)            552 bytes
+               1 Dir(s)  355,152,932,864 bytes free
